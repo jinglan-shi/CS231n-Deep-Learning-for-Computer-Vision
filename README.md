@@ -3,7 +3,7 @@ This repository contains my solutions to the assignments of the [CS231n](http://
 
 # Assignment 1
 * [Q1](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/knn.ipynb): k-Nearest Neighbor classifier
-* Q2: Training a Support Vector Machine
-* Q3: Implement a Softmax classifier
-* Q4: Two-Layer Neural Network
-* Q5: Higher Level Representations: Image Features
+* [Q2](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/svm.ipynb): Training a Support Vector Machine
+* [Q3](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/softmax.ipynb): Implement a Softmax classifier
+* [Q4](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/two_layer_net.ipynb): Two-Layer Neural Network
+* [Q5](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/features.ipynb): Higher Level Representations: Image Features
