@@ -7,3 +7,7 @@ This repository contains my solutions to the assignments of the [CS231n](http://
 * [Q3](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/softmax.ipynb): Implement a Softmax classifier
 * [Q4](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/two_layer_net.ipynb): Two-Layer Neural Network
 * [Q5](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/features.ipynb): Higher Level Representations: Image Features
+
+## Assignment 2
+* [Q1](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment2/FullyConnectedNets.ipynb): Multi-Layer Fully Connected Neural Networks
+
