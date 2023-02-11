@@ -1,5 +1,7 @@
 # CS231n-Deep-Learning-for-Computer-Vision
-This repository contains my solutions to the assignments of the [CS231n](http://cs231n.stanford.edu/schedule.html) course offered by Stanford University (Spring 2022).
+I've just finished the course online and this repository contains my solutions to the assignments of the [CS231n](http://cs231n.stanford.edu/schedule.html) course offered by Stanford University (Spring 2022).
+
+Since I've passed the exam hold by TensorFlow team and got the [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate), in this assignments, I implemented models whenever possible using PyTorch through which I learned and consolidate my skills on PyTorch framework.
 
 ## Assignment 1
 * [Q1](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment1/knn.ipynb): k-Nearest Neighbor classifier
