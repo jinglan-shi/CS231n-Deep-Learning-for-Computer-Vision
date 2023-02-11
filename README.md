@@ -10,4 +10,8 @@ This repository contains my solutions to the assignments of the [CS231n](http://
 
 ## Assignment 2
 * [Q1](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment2/FullyConnectedNets.ipynb): Multi-Layer Fully Connected Neural Networks
-
+* [Q2](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment2/BatchNormalization.ipynb): Batch Bormalization
+* [Q3](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment2/Dropout.ipynb): Dropout
+* [Q4](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment2/ConvolutionalNetworks.ipynb): Convolutional Neural Networks
+* [Q5](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment2/PyTorch.ipynb): PyTorch on CIFAR-10
+* [Q6](https://github.com/jinglan-shi/CS231n-Deep-Learning-for-Computer-Vision/blob/main/assignment2/Network_Visualization.ipynb): Network Visualization: Saliency Maps, Class Visualization, and Fooling Images
